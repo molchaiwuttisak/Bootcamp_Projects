@@ -10,5 +10,6 @@ We learn 10 sprints during 4 month progress.
   - Intro to Classical Machine Learning
   - Intro to Python
   - Essential Python for Data Analyst
+ 
  Badge:
  https://www.credly.com/users/pornpimol-chaiwuttisak.0ec34b92/badges
